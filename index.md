@@ -1,5 +1,6 @@
 # Hello!! 
-#### My name is Laurence D'Ercole and I am a 3rd year Computer Science Major and Cognitive Science Minor at UCSD.
+#### My name is Laurence D'Ercole and I am a 3rd year Computer Science Major and Cognitive Science Minor at UCSD
+<img src="images/me.JPG" class="center" height=300 width=400>
 
 # About me
 Some hobbies of mine are playing _soccer_, goind **surfing** and playing with my dog!!
