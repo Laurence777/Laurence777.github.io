@@ -3,10 +3,10 @@
 <img src="images/me.JPG" class="center" height=300 width=400>
 
 # About me
-Some hobbies of mine are playing _soccer_, goind **surfing** and playing with my dog!!
+Some hobbies of mine are playing _soccer_, goind **surfing** and playing with my ~~cat~~ dog!!
 Here is a picture of him being [awesome](images/rocky.JPG)
 
-My favorite quote by Master Oogway:
+My favorite quote by ***Master Oogway***:
 > There are no accidents
 
 My favorite command is `sudo su -`
